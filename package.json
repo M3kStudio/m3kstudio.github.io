@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Documentations of all M3K Studio's Projects",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "keywords": [],
   "author": "M3K Studio",
