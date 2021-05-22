@@ -11,5 +11,6 @@ module.exports = {
       {text: 'Home', link: "/"},
       {text: 'M3K Studio', link: "https://m3kstudio.dtayrone1.repl.co"}
     ]
-  }
+  },
+  dest: 'public',
 }
