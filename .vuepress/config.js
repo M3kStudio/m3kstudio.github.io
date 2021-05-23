@@ -1,6 +1,6 @@
 module.exports = {
   title: "M3k Studio Documentations",
-  description: 'blabla',
+  description: "Documentations of all M3K Studio's Projects",
   head: [
     ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/favicons/apple-touch-icon.png"}],
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicons/favicon-32x32.png"}],
@@ -22,7 +22,6 @@ module.exports = {
         {text: '1.0.0', link: "/bettermine/1.0.0"}
       ]}
       ]},
-      {text: 'Home', link: "/"},
       {text: 'M3K Studio', link: "https://m3kstudio.dtayrone1.repl.co"}
     ]
   },
