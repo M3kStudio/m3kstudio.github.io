@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/images/m3klogo-blueprint-N.svg
+heroImage: /assets/images/M3KSDocs.svg
 heroText: M3K Studio Documentations
 tagline: Documentations of all M3K Studio's Projects
 actionText: Get Started →
